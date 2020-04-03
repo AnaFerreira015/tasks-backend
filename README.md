@@ -9,6 +9,9 @@
 ## Update the local database (the existing tables)
 ``knex migrate:latest``
 
+## Execute backend
+``npm start``
+
 ## Technologies and dependencies:
 
 * [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
